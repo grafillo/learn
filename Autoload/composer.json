@@ -1,0 +1,19 @@
+{
+    "name": "zagruzka/autoload",
+    "description": "less",
+    "type": "project",
+    "license": "y.",
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "grafillo",
+            "email": "hotgraf@list.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
